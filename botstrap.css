@@ -1,0 +1,74 @@
+
+
+   
+
+#head {
+    margin: 5px;
+   
+    background: white;
+    border-bottom: 1px solid rgba(0, 0, 0, .05);
+    
+   
+}
+
+    
+
+
+
+#head  h4{
+    font-weight:300 !important;
+}
+ .container{
+    text-align: center;
+} 
+#Pricing .title  {
+
+}
+#Pricing h1{
+    margin: 50px;
+    font-size: 45px !important;
+    font-weight: 300;
+    line-height: 1.2;
+    text-align: center !important;
+}
+#Pricing p{
+    margin: -30px;
+    font-weight: 300;
+    font-size: 22px !important;
+    text-align: center !important;
+}
+   #price .boxs{
+       display: flex;
+       margin: 80px;
+       
+       
+   }
+   #price .boxs h3{
+    position: relative;
+    
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.05);
+    
+}
+   
+   #price .container .box{
+     width: 33.33%;
+       border: 1px solid rgba(41, 40, 40);
+       text-align: center !important;
+       margin-left: 18px;
+       margin-right: 18px;
+       padding-bottom: 15px;
+   }
+    
+      
+   
+   .end{
+       
+    border-top: 1px solid #e5e5e5;
+    display: flex;
+   
+    
+   }
+   
